@@ -11,3 +11,7 @@ function sub(a, b){
 function multifly(a, b){
     return a*b;
 }
+
+function device(a, b){
+    return a/b;
+}
